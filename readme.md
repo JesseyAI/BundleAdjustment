@@ -26,4 +26,5 @@ make
 
 ## Reference
 [1] Triggs B, McLauchlan P F, Hartley R I, et al. Bundle adjustment—a modern synthesis[C]//International workshop on vision algorithms. Springer, Berlin, Heidelberg, 1999: 298-372.
+
 [2] https://zhuanlan.zhihu.com/p/64471565
