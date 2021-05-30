@@ -22,20 +22,5 @@ cd build
 cmake ..
 make
 ```
-## Result
-![](![t](https://github.com/JesseyAI/BundleAdjustment/blob/main/image/Accuracy(a).eps))
-## Reference
 
-=======
 
-# Compile
-```
-mkdir build
-cd build
-cmake ..
-make
-```
-## Result
-![](![t](https://github.com/JesseyAI/BundleAdjustment/blob/main/image/Accuracy(a).eps))
-## Reference
->>>>>>> 55c98f725e7ddf94838ca135fe7e822c51cc47a6
